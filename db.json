@@ -1,0 +1,44 @@
+{
+  "libros": [
+    {
+      "id": 4,
+      "name": "Aprendiendo trading on forex",
+      "price": "100"
+    },
+    {
+      "name": "544",
+      "price": "5656",
+      "id": 5
+    },
+    {
+      "name": "testing",
+      "price": "556",
+      "id": 6
+    },
+    {
+      "name": "teee",
+      "price": "eeef",
+      "id": 7
+    },
+    {
+      "name": "jhjkhds",
+      "price": "56884",
+      "id": 8
+    },
+    {
+      "name": "sdds",
+      "price": "sds",
+      "id": 9
+    },
+    {
+      "name": "ddd",
+      "price": "ggg",
+      "id": 10
+    },
+    {
+      "name": "fg",
+      "price": "fg",
+      "id": 11
+    }
+  ]
+}
